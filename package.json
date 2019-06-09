@@ -1,0 +1,14 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "Electron client for the chat app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Rafael Costa",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.2"
+  }
+}
